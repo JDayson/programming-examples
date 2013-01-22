@@ -1,0 +1,10 @@
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\bin\WebApplication2.dll
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\bin\WebApplication2.pdb
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\bin\WebApplication2.xml
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\GenerateResource.read.1.tlog
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\GenerateResource.write.1.tlog
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\WebApplication2.xml
+c:\users\paco\documents\visual studio 2010\Projects\TeamProject\WebApplication2\obj\Debug\WebApplication2.pdb

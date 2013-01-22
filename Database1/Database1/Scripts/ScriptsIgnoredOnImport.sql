@@ -1,0 +1,107 @@
+﻿
+--Syntax Error: Incorrect syntax near User.
+--CREATE TABLE User
+--(
+--UserID 		INT		NOT NULL	UNIQUE,
+--UserName 	VARCHAR(50)	NOT NULL,
+--
+--CONSTRAINT pk_USER PRIMARY KEY (UserID)
+--)
+
+GO
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--Syntax Error: Incorrect syntax near User.
+--Syntax Error: Incorrect syntax near CONSTRAINT.
+--CREATE TABLE IngredientList
+--(
+--RID 		INT		NOT NULL,
+--name 		VARCHAR(50)	NOT NULL,
+--amount 		VARCHAR(50)	NOT NULL,
+--
+--CONSTRAINT pk_IngList PRIMARY KEY (RID,name)
+--CONSTRAINT fk_RID FOREIGN KEY (RID)
+--REFERENCES Recipe(RID)
+--)
+--
+--CREATE TABLE Instructions
+--(
+--IID 		INT		NOT NULL,
+--RID 		INT		NOT NULL,
+--instructions 	VARCHAR(255),	
+--
+--CONSTRAINT pk_IID PRIMARY KEY (IID,RID)
+--CONSTRAINT fk_RID FOREIGN KEY (RID)
+--REFERENCES Recipe(RID)
+--)
+--
+--CREATE TABLE keywords
+--(
+--RID 		INT		NOT NULL,
+--CID 		INT		NOT NULL,
+--
+--CONSTRAINT pk_key PRIMARY KEY (RID,CID)
+--CONSTRAINT fk_RID FOREIGN KEY (RID)
+--CONSTRAINT fk_CID FOREIGN KEY (CID)
+--REFERENCES Recipe(RID)
+--REFERENCES Catagory(CID)
+--)
+--
+--
+--
+--CREATE TABLE MealRecipeJoin
+--(
+--RID 		INT		NOT NULL,
+--MealID 		INT		NOT NULL,
+--UserID 		INT		NOT NULL,
+--
+--CONSTRAINT pk_MRJ PRIMARY KEY (RID,MealID)
+--CONSTRAINT fk_RID FOREIGN KEY (RID)
+--CONSTRAINT fk_MealID FOREIGN KEY (MealID)
+--CONSTRAINT fk_UserID FOREIGN KEY (UserID)
+--REFERENCES Recipe(RID)
+--REFERENCES Meals(MealID)
+--REFERENCES UserUploads(UserID)
+--)
+--
+--CREATE TABLE Meals
+--(
+--MealID 		INT		NOT NULL,
+--UserID 		INT		NOT NULL,
+--
+--CONSTRAINT pk_MEAL PRIMARY KEY (MealID)
+--CONSTRAINT fk_UserID FOREIGN KEY (UserID)
+--REFERENCES UserUploads(UserID)
+--)
+--
+--
+--CREATE TABLE UserUploads
+--(
+--UserID 		INT		NOT NULL,
+--RID 		INT		NOT NULL,
+--UserName 	VARCHAR(50),
+--UploadDate	VARCHAR(255),
+--
+--CONSTRAINT fk_UserID FOREIGN KEY (UserID)
+--REFERENCES User(UserID)
+--)
+--
+--CREATE TABLE UserFavorites
+--(
+--RID 		INT		NOT NULL,
+--UserID 		INT		NOT NULL,
+--UserName 	VARCHAR(50),
+--RecipeName	VARCHAR(50),
+--
+--CONSTRAINT fk_RID FOREIGN KEY (RID)
+--CONSTRAINT fk_UserID FOREIGN KEY (UserID)
+--REFERENCES Recipe(RID)
+--REFERENCES User(UserID)
+--)
+
+
+
+GO

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lab 9 not late", "lab 9 not late\lab 9 not late.vbproj", "{AA3E5AA7-C830-48FF-981D-927B3CE9A174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3E5AA7-C830-48FF-981D-927B3CE9A174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3E5AA7-C830-48FF-981D-927B3CE9A174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3E5AA7-C830-48FF-981D-927B3CE9A174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3E5AA7-C830-48FF-981D-927B3CE9A174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

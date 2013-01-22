@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\bin\lab 9 not late.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\bin\lab 9 not late.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\bin\lab 9 not late.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\lab_9_not_late.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\lab 9 not late.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\lab 9 not late.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\lab 9 not late\lab 9 not late\obj\Debug\lab 9 not late.pdb

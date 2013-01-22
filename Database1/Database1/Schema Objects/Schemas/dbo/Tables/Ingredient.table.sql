@@ -1,0 +1,10 @@
+﻿CREATE TABLE Ingredient
+(
+I_ID 		INT		NOT NULL	UNIQUE,
+name 		VARCHAR(50)	NOT NULL,
+description 	VARCHAR(255),
+
+CONSTRAINT pk_I_ID PRIMARY KEY (I_ID)
+)
+
+

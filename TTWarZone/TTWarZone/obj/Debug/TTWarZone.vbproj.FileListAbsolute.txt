@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\bin\TTWarZone.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\bin\TTWarZone.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\bin\TTWarZone.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\TTWarZone.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\TTWarZone.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\TTWarZone.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TTWarZone\TTWarZone\obj\Debug\TTWarZone.pdb

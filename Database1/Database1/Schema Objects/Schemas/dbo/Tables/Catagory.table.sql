@@ -1,0 +1,10 @@
+﻿CREATE TABLE Catagory
+(
+CID 		INT		NOT NULL	UNIQUE,
+CatagoryName 	VARCHAR(50)	NOT NULL,
+Description 	VARCHAR(255)	NOT NULL,
+
+CONSTRAINT pk_Cat PRIMARY KEY (CID)
+)
+
+

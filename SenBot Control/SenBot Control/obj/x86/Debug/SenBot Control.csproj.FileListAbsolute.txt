@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\bin\Debug\SenBot Control.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\bin\Debug\SenBot Control.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\SenBot_Control.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\SenBot_Control.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\SenBot Control.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SenBot Control\SenBot Control\obj\x86\Debug\SenBot Control.pdb
